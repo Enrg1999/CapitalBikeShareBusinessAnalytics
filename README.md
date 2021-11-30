@@ -1,6 +1,6 @@
 # CapitalBikeShareBusinessAnalytics
 
-This repository contains the analysis I @emachiarini performed for the Business Analytics course during our Master of Science program.
+This repository contains the analysis I and some classmates performed for the Business Analytics course during our Master of Science program.
 
 The attached files are:
 - `Report.pdf`: which is a report detailing our whole project
